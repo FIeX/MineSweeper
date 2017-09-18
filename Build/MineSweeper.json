@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MineSweeper.data.unityweb",
+"asmCodeUrl": "MineSweeper.asm.code.unityweb",
+"asmMemoryUrl": "MineSweeper.asm.memory.unityweb",
+"asmFrameworkUrl": "MineSweeper.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
